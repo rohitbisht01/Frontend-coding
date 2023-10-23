@@ -1,0 +1,24 @@
+.start {
+  background-color: red;
+}
+
+.stop {
+  background-color: blue;
+  display: none;
+}
+
+.reset {
+  background-color: rgb(229, 143, 157);
+}
+.main {
+  width: 500px;
+}
+.labels {
+  display: flex;
+  justify-content: space-between;
+}
+
+.label-inputs {
+  display: flex;
+  font-size: 20px;
+}
